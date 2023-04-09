@@ -1,0 +1,14 @@
+
+given more time : was told to only spend 3 hours on this so I did my best to stay within the confines of that
+
+I would have liked to handle errors.
+    I would have done so using a errorClass that would contain all the important information such as code/message/etc
+    I would also would have displayed it as a dialog and depending on error given the ability to retry
+
+I was going to add room DB to have a sort of cache of the movies/favorites but the response is a more complex than I thought and I didn't want to spend to much time on it
+
+I noticed the API returns page numbers, I would have liked to do a paging adapter as well so the data would constantly be pulled down but simply ran out of time
+    I started with a basic recyclerView and adapter to start the project but didn't have enough time to change it
+
+UI issues
+    I would have liked to cross reference the favorites with the movie list so when coming back to the Movies tab already favorite movies would show the favorite icon
